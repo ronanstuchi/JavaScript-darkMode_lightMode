@@ -11,5 +11,5 @@ Exercise JavaScript for change to darkMode
 
 ## Exemplo
 
-![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
+![Exercício Dark Mode e Light Mode](https://github.com/ronanstuchi/JavaScript-darkMode_lightMode/blob/master/assets/dark-mode-exercicio.gif)
 
